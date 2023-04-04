@@ -1,0 +1,5 @@
+---
+- included_paths:
+    - 'crea/**/*.proto'
+  disabled_rules:
+    - 'core::0192::has-comments'
